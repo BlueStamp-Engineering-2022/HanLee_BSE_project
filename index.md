@@ -1,12 +1,14 @@
-﻿# Project Name/Title Goes Here
-This will serve as a brief description of your project. Limit this to three sentences because it can become overly long at that point. This copy should draw the user in and make she/him want to read more.
-
+3 wheeled omnidirectional robot
+my project is to make a omnidirectional robot whit 3 wheeles what is controled by a ps2 controler. The robot is powered by a arduino.
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| Firstname Lastname | Current Highschool | Electrical Engineering | Incoming Senior
+| HanLee Ji | gunn | Electrical Engineering | Incoming 
 
-![Headstone Image](https://bluestampengineering.com/wp-content/uploads/2016/05/improve.jpg)
-  
+![Headstone](https://photos.google.com/share/AF1QipO0ofjm79WtdqiaPgvJbRWMM0RYuNqnRIxu0quzmkNXE34ZWxihrzg3TKo6hJyKCQ/photo/AF1QipOgeYUwEhoGDYckXgg2M1WoRBd9wtpnqer80m_D?key=X3ZOT0F1Y0xPVzJGVFREY0xPaG1aeHU5Z0RIQXNn)
+
+# starter project
+([![starter project]([![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=p54ISF6T88s))
+ 
 # Final Milestone
 My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint. 
 
