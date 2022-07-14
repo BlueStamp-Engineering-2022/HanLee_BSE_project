@@ -3,11 +3,11 @@ my project is to make a omnidirectional robot with 3 wheeles what is controled b
 |:--:|:--:|:--:|:--:|
 | HanLee Ji | gunn | Electrical Engineering | Incoming 
 
-![Headstone](https://photos.google.com/share/AF1QipO0ofjm79WtdqiaPgvJbRWMM0RYuNqnRIxu0quzmkNXE34ZWxihrzg3TKo6hJyKCQ/photo/AF1QipOgeYUwEhoGDYckXgg2M1WoRBd9wtpnqer80m_D?key=X3ZOT0F1Y0xPVzJGVFREY0xPaG1aeHU5Z0RIQXNn)
+![Headstone](https://lh3.googleusercontent.com/pw/AM-JKLWRk2MhOk1C2fVSCO2bKyufvSHLogpqRSdhfJokraIVsKuTxa3t_cNLkhfsOGrLplST1Oz91UtP2LRJ3xWnT5R9aVN-bH1AwL5dbMSL5wtEjGcKX84IiHe2joWIhkNkMehlt4xriPI8BkElXDhswHF5=s1586-no?authuser=1)
 
 # starter project
 My starter project was the simon says game. The game has four different colored buttons that you push in the order the game tells you to. At first the game only asks you to push one button. Every time you get the button combination correct, the game adds a new color to the sequence. This makes the game get harder over time. If you push the wrong button you lose. I made the game by soldering the pecies in the kit together.
-([![starter project]([![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=p54ISF6T88s))
+([![starter project]([![Final Milestone]https://i3.ytimg.com/vi/p54ISF6T88s/maxresdefault.jpg )](https://www.youtube.com/watch?v=p54ISF6T88s))
  
 # Final Milestone
 
@@ -24,4 +24,4 @@ My first milestone is wiring up all the electronics and making a test code.This 
 
 
 
-[![First Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574117/video_to_markdown/images/youtube--CaCazFBhYKs-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=CaCazFBhYKs "First Milestone"){:target="_blank" rel="noopener"}
+[![First Milestone](https://i3.ytimg.com/vi/7tjlDF8DfJI/maxresdefault.jpg)](https://www.youtube.com/watch?v=7tjlDF8DfJI"){:target="_blank" rel="noopener"}
