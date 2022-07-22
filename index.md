@@ -1,4 +1,4 @@
-my project is to make a omnidirectional robot with 3 wheeles what is controled by a ps2 controler. The robot is powered by a arduino.
+My project is to make a omnidirectional robot with 3 wheeles what is controled by a ps2 controler and arduino. The robot uses special omni wheel that have rollers on the side of them allowing the the wheels to be pushed in way normal wheels canot.
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
 | HanLee Ji | gunn | Electrical Engineering | Incoming 
@@ -11,11 +11,14 @@ My starter project was the simon says game. The game has four different colored 
  
 # Final Milestone
 
+For my 3rd milestone I added a robotic claw to my robot and tried to increase the reliability. I made my robotic claw in cad and then 3d printed it. The claw is controlled by a servo and mounted to the robot with screws. One problem I ran into a lot was the robot would  randomly spin two of the wheels without any input from my controller and it would not stop. I tried many things to fix this but it turns out it is a controller issue. To fix this I switched my receiver for an extra one I had.
+
 [![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
 
 # Second Milestone
-My final milestone is the increased reliability and accuracy of my robot. I ameliorated the sagging and fixed the reliability of the finger. As discussed in my second milestone, the arm sags because of weight. I put in a block of wood at the base to hold up the upper arm; this has reverberating positive effects throughout the arm. I also realized that the forearm was getting disconnected from the elbow servo’s horn because of the weight stress on the joint. Now, I make sure to constantly tighten the screws at that joint.
 
+ My second milestone involved assembling the robot base and coding the robot so that it can be controlled by a ps2 controller. To assemble the base I had to measure, bend, and cut metal brackets to mount by motors too. After I attached the motor mounts and motors I had to make wheel braces to prevent the wheel from falling out. My code makes one joystick control the rotation of the robot and the other one controls the direction the robot moves.
+ 
 [![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
 # First Milestone
   
