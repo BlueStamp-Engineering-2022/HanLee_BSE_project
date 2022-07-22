@@ -1,7 +1,6 @@
 # Omnidirectional Robot
 
 My project is to make a omnidirectional robot with 3 wheeles what is controled by a ps2 controler and arduino. The robot uses special omni wheel that have rollers on the side of them allowing the the wheels to be pushed in way normal wheels canot.\
-| **Engineer** | **School** | **Area of Interest** | **Grade** |\
 
 | HanLee | Gunn High School | Mechanical Engineering | Incoming Sophomore |
 
