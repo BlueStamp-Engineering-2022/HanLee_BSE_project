@@ -1,25 +1,25 @@
 My project is to make a omnidirectional robot with 3 wheeles what is controled by a ps2 controler and arduino. The robot uses special omni wheel that have rollers on the side of them allowing the the wheels to be pushed in way normal wheels canot.
 | **Engineer** | **School** | **Area of Interest** | **Grade** |
 |:--:|:--:|:--:|:--:|
-| HanLee Ji | gunn | Electrical Engineering | Incoming 
+| HanLee Ji | gunn | mechanical engineering | Incoming sophomore
 
 ![Headstone](https://lh3.googleusercontent.com/pw/AM-JKLWRk2MhOk1C2fVSCO2bKyufvSHLogpqRSdhfJokraIVsKuTxa3t_cNLkhfsOGrLplST1Oz91UtP2LRJ3xWnT5R9aVN-bH1AwL5dbMSL5wtEjGcKX84IiHe2joWIhkNkMehlt4xriPI8BkElXDhswHF5=s1586-no?authuser=1)
 
 # starter project
 My starter project was the simon says game. The game has four different colored buttons that you push in the order the game tells you to. At first the game only asks you to push one button. Every time you get the button combination correct, the game adds a new color to the sequence. This makes the game get harder over time. If you push the wrong button you lose. I made the game by soldering the pecies in the kit together.
-([![starter project]([![Final Milestone]https://i3.ytimg.com/vi/p54ISF6T88s/maxresdefault.jpg )](https://www.youtube.com/watch?v=p54ISF6T88s))
+
+[![starter project](https://i3.ytimg.com/vi/p54ISF6T88s/maxresdefault.jpg )](https://www.youtube.com/watch?v=p54ISF6T88s)
  
 # Final Milestone
 
 For my 3rd milestone I added a robotic claw to my robot and tried to increase the reliability. I made my robotic claw in cad and then 3d printed it. The claw is controlled by a servo and mounted to the robot with screws. One problem I ran into a lot was the robot would  randomly spin two of the wheels without any input from my controller and it would not stop. I tried many things to fix this but it turns out it is a controller issue. To fix this I switched my receiver for an extra one I had.
 
-[![Final Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612573869/video_to_markdown/images/youtube--F7M7imOVGug-c05b58ac6eb4c4700831b2b3070cd403.jpg )](https://www.youtube.com/watch?v=F7M7imOVGug&feature=emb_logo "Final Milestone"){:target="_blank" rel="noopener"}
-
+[![Final Milestone](https://i3.ytimg.com/vi/oEXQeqyzYWE/maxresdefault.jpg )](https://www.youtube.com/watch?v=oEXQeqyzYWE")
 # Second Milestone
 
  My second milestone involved assembling the robot base and coding the robot so that it can be controlled by a ps2 controller. To assemble the base I had to measure, bend, and cut metal brackets to mount by motors too. After I attached the motor mounts and motors I had to make wheel braces to prevent the wheel from falling out. My code makes one joystick control the rotation of the robot and the other one controls the direction the robot moves.
  
-[![Third Milestone](https://res.cloudinary.com/marcomontalbano/image/upload/v1612574014/video_to_markdown/images/youtube--y3VAmNlER5Y-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=y3VAmNlER5Y&feature=emb_logo "Second Milestone"){:target="_blank" rel="noopener"}
+[![Third Milestone](https://i3.ytimg.com/vi/H9NAfWvAdG0/maxresdefault.jpg)](https://www.youtube.com/watch?v=H9NAfWvAdG0 "Second Milestone")
 # First Milestone
   
 
@@ -27,4 +27,4 @@ My first milestone is wiring up all the electronics and making a test code.This 
 
 
 
-[![First Milestone](https://i3.ytimg.com/vi/7tjlDF8DfJI/maxresdefault.jpg)](https://www.youtube.com/watch?v=7tjlDF8DfJI"){:target="_blank" rel="noopener"}
+[![First Milestone](https://i3.ytimg.com/vi/7tjlDF8DfJI/maxresdefault.jpg)](https://www.youtube.com/watch?v=7tjlDF8DfJI")
